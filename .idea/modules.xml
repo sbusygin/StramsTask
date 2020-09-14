@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/StramsTask.iml" filepath="$PROJECT_DIR$/StramsTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamsTask.iml" filepath="$PROJECT_DIR$/StreamsTask.iml" />
     </modules>
   </component>
 </project>
